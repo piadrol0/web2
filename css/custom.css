@@ -362,3 +362,16 @@ input[type=text] {
             font-size: 12px;
         }
     }
+    @media (max-width:768px){
+        .probar{
+            display: flex;
+            flex-direction: column;
+            overflow: visible;
+        }
+    }
+    @media (max-width:768px){
+        .zq{
+            display: flex;
+            flex-direction: column;
+        }
+    }
